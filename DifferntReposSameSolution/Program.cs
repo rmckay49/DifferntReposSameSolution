@@ -11,7 +11,7 @@ namespace DifferntReposSameSolution
         static void Main(string[] args)
         {
             // added comment
-
+            // added comment
         }
     }
 }
